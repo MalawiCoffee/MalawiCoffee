@@ -4,9 +4,21 @@ $font-color: #fff;
 $primary-color: #2f3542;
 $dark-overlay:rgba(0,0,0,0.7);
 $icon-size:30px;
+$hugo: #2f3542;
+$white: #fff;
 body{
   background: $bg-color;
   color: $font-color;
+}
+
+.share-head-style
+{
+  color:$dark-overlay;
+}
+
+.bg-create
+{
+  background:$hugo;
 }
 
 .navbar{

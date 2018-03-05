@@ -2,6 +2,12 @@ body {
   background: #2f3542;
   color: #fff; }
 
+.share-head-style {
+  color: rgba(0, 0, 0, 0.7); }
+
+.bg-create {
+  background: #2f3542; }
+
 .navbar {
   border-bottom: #3B3B98 3px solid; }
 
